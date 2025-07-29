@@ -69,5 +69,5 @@ Aspiring AI Engineer with a strong foundation in software engineering, machine l
 
 ## Let's Connect
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/anrikopaliani) or explore more on [GitHub](https://github.com/anrikopaliani).  
+Feel free to reach out via [LinkedIn](www.linkedin.com/in/anri-kopaliani) or explore more on [GitHub](https://github.com/anrikopaliani).  
 Always open to exciting collaborations in AI, software engineering, and projects that push the limits of code and intelligence.
