@@ -67,6 +67,31 @@ Aspiring AI Engineer with a strong foundation in software engineering, machine l
 
 ---
 
+## Books I've Read 
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://m.media-amazon.com/images/I/414IUEEsf8L._SX342_SY445_.jpg" width="80"/><br/>
+      <sub><b>Building LLM Powered Applications: Create intelligent apps and agents with large language models</b><br/>Valentina Alto </sub>
+    </td>
+    <td align="center">
+      <img src="https://m.media-amazon.com/images/I/51GcXOrWROL._SY445_SX342_.jpg" width="80"/><br/>
+      <sub><b>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow.</b><br/>Aurélien Géron</sub>
+    </td>
+    <td align="center">
+      <img src="https://m.media-amazon.com/images/I/71eljkULtwL._SY385_.jpg" width="80"/><br/>
+      <sub><b>Build a Large Language Model (From Scratch)</b><br/>Sebastian Raschka </sub>
+    </td>
+    <td align="center">
+      <img src="https://m.media-amazon.com/images/I/615IIVepfjL._SY385_.jpg" width="80"/><br/>
+      <sub><b>Machine Learning with PyTorch and Scikit-Learn</b><br/>Sebastian Raschka</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Let's Connect
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/anri-kopaliani) or explore more on [GitHub](https://github.com/anrikopaliani).  
