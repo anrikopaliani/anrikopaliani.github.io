@@ -1,4 +1,4 @@
-# Anri Kopaliani – AI Engineer
+# AI Engineer
 
 Aspiring AI Engineer with a strong foundation in software engineering, machine learning, and algorithmic problem solving. Experienced in building full-stack web applications and training custom machine learning models from scratch. Currently pursuing a B.S. in Information Technology and working on real-world AI projects.
 
@@ -90,7 +90,6 @@ Aspiring AI Engineer with a strong foundation in software engineering, machine l
   </tr>
 </table>
 
----
 
 ## Let's Connect
 
